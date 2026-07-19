@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+sentence-transformers
+plotly
+pandas
+numpy
+python-dotenv
+reportlab
+pydantic
